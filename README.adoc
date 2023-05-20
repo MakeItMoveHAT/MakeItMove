@@ -1,6 +1,6 @@
 = MakeItMove Library for Arduino =
 
-This library allows an Arduino/Genuino,ESP32,ESP8266, board to control Make-it-Move HAT used to control DC Motors/Stepper Motors, and Servo Motors for any robotics Applications.
+This library allows an Arduino/Genuino,ESP32,ESP8266, boards to with Make-it-Move HAT, used to control DC Motors/Stepper Motors, and Servo Motors for any robotics Applications.
 
 For more information about this library please visit us at
 http://www.make-it-move.com
